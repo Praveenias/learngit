@@ -1,6 +1,3 @@
 
-git status
-
-in branch1
-
+git init
 
